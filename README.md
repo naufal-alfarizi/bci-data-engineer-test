@@ -66,6 +66,7 @@ The solution is modular, tested, and orchestrated with Airflow.
 
 ``` bash
 poetry install
+poetry init
 poetry run pytest
 ```
 
